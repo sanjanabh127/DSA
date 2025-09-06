@@ -21,8 +21,6 @@ class Solution {
                 cnt2--;
             }
         }
-
-        // 2nd pass: verify candidates
         cnt1 = 0; cnt2 = 0;
         for (int num : nums) {
             if (num == ele1) cnt1++;
