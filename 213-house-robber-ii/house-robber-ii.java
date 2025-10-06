@@ -1,5 +1,3 @@
-
-
 class Solution {
     private int robLinear(int[] nums) {
         int n = nums.length;
